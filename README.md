@@ -1,2 +1,1 @@
-# SAM_implements
-original implement of SAM
+# Clone of SAM_implements for some testing
