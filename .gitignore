@@ -1,0 +1,4 @@
+cifar10_data/
+trained_models/
+wandb/
+output/
